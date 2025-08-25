@@ -1,0 +1,28 @@
+Development Approach
+
+Frontend/UI → Streamlit (custom amber & black theme)
+
+Backend/AI Engine → Google Gemini API (Generative AI)
+
+Data Handling → Pandas, NumPy
+
+Financial & Market Models → Custom Python modules (financials.py, market_size.py)
+
+Integration → Modular prompt library for multiple outputs
+
+Deployment Ready → Python virtual environment & API key based config
+
+
+Use of Copilot 
+
+Breaking down complexity → Copilot helped me refine a broad project idea into smaller, structured prompts (UI, backend, financials, Q&A).
+
+Code scaffolding → It generated starter code for Streamlit layouts, modular helpers (gemini_client.py, financials.py, market_size.py), saving time on boilerplate.
+
+Best practices → Suggested modularization and clean architecture, keeping the app organized.
+
+UI improvements → Helped polish the interface with headers, captions, and consistent design elements.
+
+Interactivity → Encouraged the idea of a Q&A simulator for practice, making the app more engaging.
+
+Iteration support → At each refinement, Copilot adapted to my feedback, narrowing down from generic outputs to a production-ready app.
